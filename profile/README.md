@@ -1,6 +1,5 @@
 # The ANthropological Notation Ontology (ANNO): A core ontology for annotating human bones and deriving phenotypes
 
-## Abstract
 The Anthropological Notation Ontology (ANNO) allows the systematic and standardized classification of recovered bone finds into the skeletal system, the description of the skeletal pieces, and the definition of functions for the derivation of different phenotypes of humans in forensic and historical anthropology.
 ANNO consists of two components:
 ANNOdc, a domain-core ontology providing core entities such as basic anatomical categories, and ANNOds, a domain-specific ontology used for annotating structures of the human skeleton.
